@@ -1,1 +1,2 @@
-# Hello World
+# Self-introduction
+## Named Wuhao,I'm a Chinese boy.After finishing my nine-year compulsory education in my beautiful hometown *Lianjiang* ,I was admitted to Fuzhou University in 2023.My major is computer science and I'm comtinuously learning it for my future career planning.In free time,I choose playing basketball as a means of strengthening my body.
